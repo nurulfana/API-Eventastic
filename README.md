@@ -26,31 +26,19 @@ This is API for **[Eventastic](https://github.com/luqmaneo/Eventastic)** project
 
 <table>
   <tr>
-    <td>Splash Screen</td>
-     <td>Login</td>
-     <td>Register</td>
-    <td>Insert Event Details</td>
+    <td>Admin Login</td>
+     <td>Register Venue</td>
+     <td>Main Page</td>
+     <td>User List</td>
+     <td>Admin List</td>
+     <td>Venue List</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/luqmaneo/Eventastic/blob/main/asset/splash_screen.png" width=183 height=376></td>
-    <td><img src="https://github.com/luqmaneo/Eventastic/blob/main/asset/login.png" width=183 height=376></td>
-    <td><img src="https://github.com/luqmaneo/Eventastic/blob/main/asset/SignUp.png" width=183 height=376></td>
-    <td><img src="https://github.com/luqmaneo/Eventastic/blob/main/asset/InsertEventDetails.png" width=183 height=376></td>
+    <td><img src="UI/AdminLogin.png" width=183 height=376></td>
+    <td><img src="UI/RegisterVenue.png" width=183 height=376></td>
+    <td><img src="UI/MainPage.png" width=183 height=376></td>
+    <td><img src="UI/UserList.png" width=183 height=376></td>
+    <td><img src="UI/AdminList.png" width=183 height=376></td>
+    <td><img src="UI/VenueList.png" width=183 height=376></td>
   </tr>
- </table>
-  <table>
-  <tr>    
-     <td>Main Menu</td>
-     <td>Side Navigation</td>
-     <td>Venue</td>
-     <td>Dashboard</td>
-  </tr>
-  <tr>    
-    <td><img src="https://github.com/luqmaneo/Eventastic/blob/main/asset/main%20menu.png" width=183 height=376></td>
-    <td><img src="https://github.com/luqmaneo/Eventastic/blob/main/asset/side.png" width=183 height=376></td>
-    <td><img src="https://github.com/luqmaneo/Eventastic/blob/main/asset/venue.png" width=183 height=376></td>
-    <td><img src="https://github.com/luqmaneo/Eventastic/blob/main/asset/Dashboard.png" width=183 height=376></td>
-  </tr>
- </table>
- 
-
+</table>
