@@ -34,11 +34,21 @@ This is API for **[Eventastic](https://github.com/luqmaneo/Eventastic)** project
      <td>Venue List</td>
   </tr>
   <tr>
-    <td><img src="UI/AdminLogin.png" width=183 height=376></td>
-    <td><img src="UI/RegisterVenue.png" width=183 height=376></td>
-    <td><img src="UI/MainPage.png" width=183 height=376></td>
-    <td><img src="UI/UserList.png" width=183 height=376></td>
-    <td><img src="UI/AdminList.png" width=183 height=376></td>
-    <td><img src="UI/VenueList.png" width=183 height=376></td>
+       <td><img src="UI/AdminLogin.png" width=183 height=376></td>
   </tr>
+  <tr>
+      <td><img src="UI/RegisterVenue.png" width=183 height=376></td>
+  </tr>
+   <tr>
+      <td><img src="UI/MainPage.png" width=183 height=376></td>
+   </tr>
+   <tr>
+      <td><img src="UI/UserList.png" width=183 height=376></td>
+   </tr>
+   <tr>
+      <td><img src="UI/AdminList.png" width=183 height=376></td>
+   </tr>
+   <tr>
+      <td><img src="UI/VenueList.png" width=183 height=376></td>
+   </tr>
 </table>
