@@ -26,13 +26,24 @@ This is API for **[Eventastic](https://github.com/luqmaneo/Eventastic)** project
 
 <table>
   <tr>
-    <td>Admin Login</td>
-     <td>Register Venue</td>
-     <td>Main Page</td>
-     <td>User List</td>
-     <td>Admin List</td>
+       <td>Admin Login</td>
+  </tr>
+   <tr>
+      <td>Register Venue</td>
+   </tr>
+   <tr>
+      <td>Main Page</td>
+   </tr>
+   <tr>
+      <td>User List</td>
+   </tr>
+   <tr>
+      <td>Admin List</td>
+   </tr>
+   <tr>
      <td>Venue List</td>
   </tr>
+   
   <tr>
        <td><img src="UI/AdminLogin.png" width=183 height=376></td>
   </tr>
