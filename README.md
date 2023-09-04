@@ -27,6 +27,7 @@ This is API for **[Eventastic](https://github.com/luqmaneo/Eventastic)** project
 <table>
   <tr>
        <td>Admin Login</td>
+       <td><img src="UI/AdminLogin.png" width=183 height=376></td>
   </tr>
    <tr>
       <td>Register Venue</td>
@@ -44,9 +45,6 @@ This is API for **[Eventastic](https://github.com/luqmaneo/Eventastic)** project
      <td>Venue List</td>
   </tr>
    
-  <tr>
-       <td><img src="UI/AdminLogin.png" width=183 height=376></td>
-  </tr>
   <tr>
       <td><img src="UI/RegisterVenue.png" width=183 height=376></td>
   </tr>
