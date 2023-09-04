@@ -25,39 +25,28 @@ This is API for **[Eventastic](https://github.com/luqmaneo/Eventastic)** project
 # UI of this project
 
 <table>
-  <tr>
-       <td>Admin Login</td>
-       <td><img src="UI/AdminLogin.png" width=183 height=376></td>
-  </tr>
-   <tr>
-      <td>Register Venue</td>
-   </tr>
-   <tr>
-      <td>Main Page</td>
-   </tr>
-   <tr>
-      <td>User List</td>
-   </tr>
-   <tr>
-      <td>Admin List</td>
-   </tr>
-   <tr>
-     <td>Venue List</td>
-  </tr>
-   
-  <tr>
-      <td><img src="UI/RegisterVenue.png" width=183 height=376></td>
-  </tr>
-   <tr>
-      <td><img src="UI/MainPage.png" width=183 height=376></td>
-   </tr>
-   <tr>
-      <td><img src="UI/UserList.png" width=183 height=376></td>
-   </tr>
-   <tr>
-      <td><img src="UI/AdminList.png" width=183 height=376></td>
-   </tr>
-   <tr>
-      <td><img src="UI/VenueList.png" width=183 height=376></td>
-   </tr>
+     <tr>
+         <td>Admin Login</td>
+         <td><img src="UI/AdminLogin.png" width=889 height=481></td>
+     </tr>
+      <tr>
+         <td>Register Venue</td>
+         <td><img src="UI/RegisterVenue.png" width=183 height=376></td>
+      </tr>
+      <tr>
+         <td>Main Page</td>
+         <td><img src="UI/MainPage.png" width=183 height=376></td>
+      </tr>
+      <tr>
+         <td>User List</td>
+         <td><img src="UI/UserList.png" width=183 height=376></td>
+      </tr>
+      <tr>
+         <td>Admin List</td>
+         <td><img src="UI/AdminList.png" width=183 height=376></td>
+      </tr>
+      <tr>
+         <td>Venue List</td>
+         <td><img src="UI/VenueList.png" width=183 height=376></td>
+      </tr>
 </table>
