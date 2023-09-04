@@ -22,7 +22,7 @@ This is API for **[Eventastic](https://github.com/luqmaneo/Eventastic)** project
 - **[NARESH NAIDU A/L PERUMAL NAIDU](https://github.com/DeadPool9090)**
 - **[NOR SYUHADAH BINTI ARIFIN](https://github.com/syuhadah99)**
 
-# UI of this project
+# Snippets of this project
 
 <table>
      <tr>
